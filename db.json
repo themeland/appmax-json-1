@@ -173,5 +173,30 @@
                 "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
             }
         ]
+    },
+    "themeOneContactSection": {
+        "title": "Get started for FREE!",
+        "heading": "Looking for the best?",
+        "headingTwo": "App landing page?",
+        "contactData": [
+            {
+                "id": 1,
+                "iconClass": "fas fa-home",
+                "title": "Location",
+                "text": "677 Timpany Blvd, Gardner MA 1440"
+            },
+            {
+                "id": 2,
+                "iconClass": "fas fa-phone-alt",
+                "title": "Phone",
+                "text": "+1 23 456 789-012 6789"
+            },
+            {
+                "id": 3,
+                "iconClass": "fas fa-envelope",
+                "title": "Email",
+                "text": "example@yourmail.com"
+            }
+        ]
     }
 }
