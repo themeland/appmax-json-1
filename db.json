@@ -140,6 +140,33 @@
                 "li_3": "Unlimited Email",
                 "li_4": "Daily Backups"
             }
+        ],
+        "faqData": [
+          {
+            "id": 1,
+            "title": "What are the benifits of App landing page?",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
+          },
+          {
+            "id": 2,
+            "title": "What about the features?",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
+          },
+          {
+            "id": 3,
+            "title": "How to download the extended licence?",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
+          },
+          {
+            "id": 4,
+            "title": "Can I have to pay again for this product?",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
+          },
+          {
+            "id": 5,
+            "title": "Will the support included in product?",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt eius quia voluptatem maiores, quod ipsa odit! Mollitia fugit voluptatum cumque esse, omnis earum, dolore maxime ex dolores voluptate. Ipsam, fugit in delectus maxime vitae aut hic dolor eius quasi minima."
+          }
         ]
     },
     "themeOneFaqSection": {
