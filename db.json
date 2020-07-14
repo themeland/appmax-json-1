@@ -11,6 +11,7 @@
         "btnText": "Learn More",
         "thumbOne": "/img/service_thumb.png",
         "thumbTwo": "/img/discover_thumb.png",
+        "thumbThree": "/img/welcome_mockup.png",
         "discoverData": [
             {
                 "id": 1,
@@ -68,11 +69,11 @@
         "iconData": [
             {
                 "id": 1,
-                "iconClass": "ti-alarm-clock"
+                "iconClass": "ti-alarm-clock mr-3"
             },
             {
                 "id": 2,
-                "iconClass": "ti-crown"
+                "iconClass": "ti-crown mr-3"
             },
             {
                 "id": 3,
